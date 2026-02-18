@@ -1,0 +1,6 @@
+streamlit
+random
+numpy
+matplotlib
+os
+datetime
